@@ -68,10 +68,9 @@ $ python3 -m tkinter
 ```bash
 # Clone the git repository on your CLI
 $ git clone https://github.com/etyanglinus/to_do_list.git
-# Check to see whether you have CODSOFT on your terminal by now
 $ ls
 # Navigate into the todo_app folder
-$ cd CODSOFT/to-do_list
+$ cd to-do_list
 # Run the app
 $ python3 todo_list.py
 # Note that an easier way to start the app is
@@ -80,10 +79,5 @@ $ ./todo_list.py
 
 > *The app should be running by now and ready for use, it will automatically generate a file named 'todo_list.db' that serves as your database and holds all saved data, retrievable when you exit the app and return later*
 
-## How to Use the App
-Please see [this short video]() to learn how to use the app or contact [Topman Paul-Dike](https://github.com/tpauldike) if you need some help or have suggestions/complaints
 
-## How to Contribute to this App
-If you wish to refactor the code, add some feature, fix a bug, or do anything that will improve the application, I invite you to collaborate with me. Please read [this document](../CONTRIBUTION.md) to know exactly what is expected of you in order for your contribution to be accepted.
-
-###### Author: [Topman Paul-Dike](https://github.com/tpauldike)
+###### Author: [Linus Etyang Murunga](https://github.com/etyanglinus)
